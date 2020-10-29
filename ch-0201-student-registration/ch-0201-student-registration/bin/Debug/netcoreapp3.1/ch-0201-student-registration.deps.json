@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ch-0201-student-registration/1.0.0": {
+        "runtime": {
+          "ch-0201-student-registration.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ch-0201-student-registration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

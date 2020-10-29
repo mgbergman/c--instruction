@@ -1,0 +1,12 @@
+C:\repos\c#-instruction\ch03-02-TravelTimeConverter\ch03-02-TravelTimeConverter\bin\Debug\netcoreapp3.1\ch03-02-TravelTimeConverter.exe
+C:\repos\c#-instruction\ch03-02-TravelTimeConverter\ch03-02-TravelTimeConverter\bin\Debug\netcoreapp3.1\ch03-02-TravelTimeConverter.deps.json
+C:\repos\c#-instruction\ch03-02-TravelTimeConverter\ch03-02-TravelTimeConverter\bin\Debug\netcoreapp3.1\ch03-02-TravelTimeConverter.runtimeconfig.json
+C:\repos\c#-instruction\ch03-02-TravelTimeConverter\ch03-02-TravelTimeConverter\bin\Debug\netcoreapp3.1\ch03-02-TravelTimeConverter.runtimeconfig.dev.json
+C:\repos\c#-instruction\ch03-02-TravelTimeConverter\ch03-02-TravelTimeConverter\bin\Debug\netcoreapp3.1\ch03-02-TravelTimeConverter.dll
+C:\repos\c#-instruction\ch03-02-TravelTimeConverter\ch03-02-TravelTimeConverter\bin\Debug\netcoreapp3.1\ch03-02-TravelTimeConverter.pdb
+C:\repos\c#-instruction\ch03-02-TravelTimeConverter\ch03-02-TravelTimeConverter\obj\Debug\netcoreapp3.1\ch03-02-TravelTimeConverter.AssemblyInfoInputs.cache
+C:\repos\c#-instruction\ch03-02-TravelTimeConverter\ch03-02-TravelTimeConverter\obj\Debug\netcoreapp3.1\ch03-02-TravelTimeConverter.AssemblyInfo.cs
+C:\repos\c#-instruction\ch03-02-TravelTimeConverter\ch03-02-TravelTimeConverter\obj\Debug\netcoreapp3.1\ch03-02-TravelTimeConverter.csproj.CoreCompileInputs.cache
+C:\repos\c#-instruction\ch03-02-TravelTimeConverter\ch03-02-TravelTimeConverter\obj\Debug\netcoreapp3.1\ch03-02-TravelTimeConverter.dll
+C:\repos\c#-instruction\ch03-02-TravelTimeConverter\ch03-02-TravelTimeConverter\obj\Debug\netcoreapp3.1\ch03-02-TravelTimeConverter.pdb
+C:\repos\c#-instruction\ch03-02-TravelTimeConverter\ch03-02-TravelTimeConverter\obj\Debug\netcoreapp3.1\ch03-02-TravelTimeConverter.genruntimeconfig.cache
